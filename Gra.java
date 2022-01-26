@@ -1,3 +1,6 @@
+//  Author:         (c) 2021 Bonifacio Marco Francomano
+
+
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
