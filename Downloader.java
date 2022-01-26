@@ -1,3 +1,6 @@
+//  Author:         (c) 2021 Bonifacio Marco Francomano
+
+
 import java.util.Scanner;
 
 import javax.swing.JButton;
